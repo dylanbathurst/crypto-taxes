@@ -12,10 +12,15 @@ A collection of links and documentation to help anyone struggling with paying th
 - [Token Tax](https://tokentax.us/)
 - [Crypto Tax Prep](https://cryptotaxprep.com/)
 
+### Tools
+- [Bitcoin.tax](https://bitcoin.tax/)
+- [Cointracker](https://www.cointracker.io/tax)
+
 ### Exchanges
 - [Coinbase Tax FAQs](https://support.coinbase.com/customer/en/portal/articles/1496488-taxes-faq)
 
-### SEC
+### SEC/IRS
 - [Public Statement on Cryptocurrencies and ICOs - 12/11/17](https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11)
+- [IRS Form 8949 example](https://s3-us-west-1.amazonaws.com/coin-tracker-public/static/files/sample_f8949.pdf?v=1)
 
 ***disclaimer this is not tax or investing advice**
