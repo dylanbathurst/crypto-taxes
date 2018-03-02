@@ -7,3 +7,6 @@ A collection of links and documentation to help anyone struggling with paying th
 ### Links
 - [Token Tax](https://tokentax.us/)
 - [Crypto Tax Prep](https://cryptotaxprep.com/)
+
+### Exchanges
+- [Coinbase Tax FAQs](https://support.coinbase.com/customer/en/portal/articles/1496488-taxes-faq)
