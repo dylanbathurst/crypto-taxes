@@ -16,3 +16,5 @@ A collection of links and documentation to help anyone struggling with paying th
 
 ### SEC
 - [Public Statement on Cryptocurrencies and ICOs - 12/11/17](https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11)
+
+***disclaimer this is not tax or investing advice**
