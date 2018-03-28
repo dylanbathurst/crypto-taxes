@@ -11,6 +11,7 @@ A collection of links and documentation to help anyone struggling with paying th
 ### Links
 - [Token Tax](https://tokentax.us/)
 - [Crypto Tax Prep](https://cryptotaxprep.com/)
+- [FIFO, LIFO, or Specific Identification](https://bravenewcoin.com/news/capital-gains-on-cryptocurrency-fifo-lifo-or-specific-identification/)
 
 ### Tools
 - [Bitcoin.tax](https://bitcoin.tax/)
