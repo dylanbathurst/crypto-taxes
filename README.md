@@ -18,6 +18,7 @@ A collection of links and documentation to help anyone struggling with paying th
 - [Cointracker](https://www.cointracker.io/i/n4wzGggkKXSq)
 - [Coinbase's new Tax Tools](https://blog.coinbase.com/new-tax-tools-on-coinbase-4d2598544d9e)
 - [gdax 8949](https://gdax8949.com)
+- [Open Source Tax Calculator](https://github.com/Thann/crypto-taxes)
 
 ### Exchanges
 - [Coinbase Tax FAQs](https://support.coinbase.com/customer/en/portal/articles/1496488-taxes-faq)
